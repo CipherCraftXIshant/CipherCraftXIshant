@@ -4,9 +4,9 @@
 ---
 
 - 🎓 I'm currently a **2nd year CSE student** at **Chitkara University, Rajpura**
-- 💻 Exploring **DSA** & sharpening **C++**, **Python**, and **Frontend** skills
+- 💻 Exploring **DSA)** & sharpening **C++**, **Python**, and **Frontend** skills
 - 🌱 Currently learning: `React`, `C++ STL`, `Git`, and `DSA problems`
-- 👨‍💻 Working on my startup: **[CipherCraftED](https://github.com/ishantsharma9499)** – an EdTech learning platform
+- 👨‍💻 Working on my startup: **[CipherCraftED](https://github.com/CipherCraftXIshant)** – an EdTech learning platform
 - ⚡ Fun fact: I drink logic like coffee ☕ and debug like a ninja 🥷
 
 ---
@@ -26,8 +26,8 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishantsharma9499&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishantsharma9499&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CipherCraftXIshant&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CipherCraftXIshant&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
 </p>
 
 ---
@@ -49,7 +49,7 @@
 
 ### 🧠 My LeetCode Profile:
 Check out my progress and streaks  
-👉 [leetcode.com](https://leetcode.com) (add your actual profile link here)
+👉 [LeetCode](https://leetcode.com) *(add your actual profile link here)*
 
 ---
 

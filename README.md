@@ -49,7 +49,7 @@
 
 ### 🧠 My LeetCode Profile:
 Check out my progress and streaks  
-👉 [LeetCode](https://leetcode.com) *(add your actual profile link here)*
+👉 [LeetCode]([https://leetcode.com](https://leetcode.com/u/Ishant-XD/)) 
 
 ---
 

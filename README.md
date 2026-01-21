@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ishant Sharma</h1>
-<h3 align="center">A Passionate Developer | CSE Student @ Chitkara University | LeetCode | Web Dev Enthusiast 🚀</h3>
+<h3 align="center">A Passionate Developer | CSE Student @ Chitkara University | LeetCode | AI ML Enthusiast 🚀</h3>
 
 ---
 
 - 🎓 I'm currently a **2nd year CSE student** at **Chitkara University, Rajpura**
-- 💻 Exploring **DSA)** & sharpening **C++**, **Python**, and **Frontend** skills
-- 🌱 Currently learning: `React`, `C++ STL`, `Git`, and `DSA problems`
+- 💻 Exploring **DSA)** & sharpening **JAVA**, **Python**, and **Frontend** skills
+- 🌱 Currently learning: `React`, `JAVA , BACKEND`, `Git`, and `DSA problems`
 - 👨‍💻 Working on my startup: **[CipherCraftED](https://github.com/CipherCraftXIshant)** – an EdTech learning platform
 - ⚡ Fun fact: I drink logic like coffee ☕ and debug like a ninja 🥷
 

@@ -1,110 +1,90 @@
-# 💫 About Me
+<h1 align="center">Hi, I'm Ishant Sharma 👋</h1>
+<h3 align="center">Full-Stack Developer (MERN) · DSA Enthusiast · Building AI-powered web apps</h3>
 
-Hi 👋 I'm **Ishant Sharma**
-
-🎓 3rd-Year B.Tech CSE Student at Chitkara University
-
-💻 Passionate about solving Data Structures & Algorithms problems and building real-world software.
-
-🚀 Currently building:
-- MERN Stack Applications
-- AI-powered Web Applications
-- Developer Portfolio & Open Source Projects
-
-🌱 Currently Learning
-- Advanced Java
-- Data Structures & Algorithms
-- AI Integration using LLM APIs
-
-🤝 Looking to Collaborate On
-- MERN Projects
-- AI-integrated Applications
-- Open Source
-- Java Projects
-
-💬 Ask Me About
-- Java
-- DSA
-- JavaScript
-- React
-- MERN
-- Git & GitHub
-
-⚡ Fun Fact
-I enjoy turning real-world problems into software solutions.
+<p align="center">
+  <a href="https://www.linkedin.com/in/ishant-sharma-b66725309/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/CipherCraftXIshant">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:ishantsharma9499@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# 🌐 Connect With Me
+### 🧭 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([YOUR_LINKEDIN](https://www.linkedin.com/in/ishant-sharma-b66725309/))
+I'm a B.Tech Computer Science student at Chitkara University, building production-style projects with the MERN stack and integrating LLM APIs into real applications. I care about clean architecture, readable code, and shipping things that actually work — not just tutorials I followed once.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/CipherCraftXIshant)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ishantsharma9499@gmail.com)
+- 🔭 **Currently building:** MERN stack applications, AI-integrated web apps, and my developer portfolio
+- 🌱 **Currently sharpening:** Advanced Java, Data Structures & Algorithms, LLM API integration
+- 🤝 **Open to collaborate on:** MERN projects, AI-integrated apps, open source, Java projects
+- 💬 **Ask me about:** Java, DSA, JavaScript, React, MERN, Git & GitHub
+- ⚡ **Fun fact:** I like turning everyday annoyances into small software fixes
 
 ---
 
-# 💻 Tech Stack
+### 🛠️ Tech Stack
 
-### Languages
-
+**Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frontend
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap)
+**Backend**
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Backend
+**Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=CipherCraftXIshant&theme=tokyonight&show_icons=true&count_private=true)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CipherCraftXIshant&theme=tokyonight&show_icons=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=CipherCraftXIshant&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CipherCraftXIshant&layout=compact&theme=tokyonight" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=CipherCraftXIshant&theme=tokyonight)
+### 📈 Contribution Graph
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CipherCraftXIshant&layout=compact&theme=tokyonight)
+<p align="center">
+  <a href="https://github.com/CipherCraftXIshant">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CipherCraftXIshant&theme=tokyo-night" />
+  </a>
+</p>
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CipherCraftXIshant&theme=onedark&margin-w=15" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/CipherCraftXIshant/CipherCraftXIshant/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-# 📈 Contribution Graph
-
-[![Ishant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CipherCraftXIshant&theme=tokyo-night)](https://github.com/Ishantsharma99)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=CipherCraftXIshant&theme=onedark&margin-w=15)
-
----
-
-# 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Ishantsharma99/CipherCraftXIshant/blob/output/github-contribution-grid-snake.svg)
-
----
+<p align="center"><i>Always learning, always shipping.</i></p>

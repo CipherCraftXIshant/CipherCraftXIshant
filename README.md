@@ -37,9 +37,9 @@ I enjoy turning real-world problems into software solutions.
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([YOUR_LINKEDIN](https://www.linkedin.com/in/ishant-sharma-b66725309/))
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Ishantsharma99)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/CipherCraftXIshant)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ishantsharma9499@gmail.com)
 
@@ -83,40 +83,28 @@ I enjoy turning real-world problems into software solutions.
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Ishantsharma99&theme=tokyonight&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=CipherCraftXIshant&theme=tokyonight&show_icons=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ishantsharma99&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=CipherCraftXIshant&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishantsharma99&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CipherCraftXIshant&layout=compact&theme=tokyonight)
 
 ---
 
 # 📈 Contribution Graph
 
-[![Ishant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishantsharma99&theme=tokyo-night)](https://github.com/Ishantsharma99)
+[![Ishant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CipherCraftXIshant&theme=tokyo-night)](https://github.com/Ishantsharma99)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Ishantsharma99&theme=onedark&margin-w=15)
+![](https://github-profile-trophy.vercel.app/?username=CipherCraftXIshant&theme=onedark&margin-w=15)
 
 ---
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Ishantsharma99/Ishantsharma99/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Ishantsharma99/CipherCraftXIshant/blob/output/github-contribution-grid-snake.svg)
 
 ---
-
-# 📌 Featured Projects
-
-⭐ E-cart
-
-⭐ Random Quote Generator
-
-⭐ Portfolio Website
-
----
-
-![](https://komarev.com/ghpvc/?username=Ishantsharma99&label=Profile%20Views&color=0e75b6&style=flat)

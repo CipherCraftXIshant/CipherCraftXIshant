@@ -1,85 +1,122 @@
-<!-- FORCE GITHUB IMAGE REFRESH -->
+# 💫 About Me
 
-# Hi 👋, I'm Ishant Sharma
+Hi 👋 I'm **Ishant Sharma**
 
-### 🚀 Passionate Developer | CSE Student @ Chitkara University | DSA • Web • AI/ML
+🎓 3rd-Year B.Tech CSE Student at Chitkara University
 
-![Profile Views](https://komarev.com/ghpvc/?username=CipherCraftXIshant&label=Profile%20Views&color=0e75b6&style=flat)
+💻 Passionate about solving Data Structures & Algorithms problems and building real-world software.
 
----
+🚀 Currently building:
+- MERN Stack Applications
+- AI-powered Web Applications
+- Developer Portfolio & Open Source Projects
 
-## 👨‍💻 About Me
+🌱 Currently Learning
+- Advanced Java
+- Data Structures & Algorithms
+- AI Integration using LLM APIs
 
-- 🎓 2nd Year **CSE Student** at **Chitkara University, Rajpura**
-- 💻 Strong focus on **DSA & Problem Solving**
-- 🌱 Learning **React, Backend, Git & Advanced DSA**
-- 🚀 Building **CipherCraftED** – EdTech Startup
-- ⚡ Fun fact: *Logic is my caffeine ☕*
+🤝 Looking to Collaborate On
+- MERN Projects
+- AI-integrated Applications
+- Open Source
+- Java Projects
 
----
+💬 Ask Me About
+- Java
+- DSA
+- JavaScript
+- React
+- MERN
+- Git & GitHub
 
-## 🛠️ Languages & Tools
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CipherCraftXIshant&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CipherCraftXIshant&layout=compact&theme=radical)
+⚡ Fun Fact
+I enjoy turning real-world problems into software solutions.
 
 ---
 
-## 🔥 GitHub Streak
+# 🌐 Connect With Me
 
-![GitHub Streak](https://streak-stats.demolab.com?user=CipherCraftXIshant&theme=radical&hide_border=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Ishantsharma99)
 
-## 🧠 DSA & Competitive Programming
-
-- 🟠 **LeetCode:**  
-  https://leetcode.com/u/Ishant-XD/
-
-- 🎯 Focus Areas:
-  - Arrays & Strings
-  - Recursion & Backtracking
-  - Stack, Queue, Linked List
-  - Trees & Graphs (Learning)
-  - Dynamic Programming (Next)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ishantsharma9499@gmail.com)
 
 ---
 
-## 🚀 Projects
+# 💻 Tech Stack
 
-- 🎯 **Quolit** – Random Quote Generator (HTML, CSS, JS)
-- 🌱 **Smart Irrigation System** – IoT DECA Project
-- 📘 **CipherCraftED** – EdTech Platform (In Progress)
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 🔗 Connect With Me
+# 📊 GitHub Stats
 
-- 💼 LinkedIn:  
-  https://linkedin.com/in/ishant-sharma-b66725309/
+![](https://github-readme-stats.vercel.app/api?username=Ishantsharma99&theme=tokyonight&show_icons=true&count_private=true)
 
-- 📬 Email:  
-  ishantsharma9499@gmail.com
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ishantsharma99&theme=tokyonight)
 
-- 🌐 Portfolio:  
- [Link](https://github.com/CipherCraftXIshant/Portfolio-Website)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishantsharma99&layout=compact&theme=tokyonight)
 
 ---
 
-> *"Consistency beats intensity. Show up every day."* 🚀
+# 📈 Contribution Graph
+
+[![Ishant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishantsharma99&theme=tokyo-night)](https://github.com/Ishantsharma99)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Ishantsharma99&theme=onedark&margin-w=15)
+
+---
+
+# 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Ishantsharma99/Ishantsharma99/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 📌 Featured Projects
+
+⭐ E-cart
+
+⭐ Random Quote Generator
+
+⭐ Portfolio Website
+
+---
+
+![](https://komarev.com/ghpvc/?username=Ishantsharma99&label=Profile%20Views&color=0e75b6&style=flat)

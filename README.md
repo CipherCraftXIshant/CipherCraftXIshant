@@ -91,18 +91,6 @@ I'm a B.Tech Computer Science student at Chitkara University, building productio
   </a>
 </p>
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CipherCraftXIshant&theme=onedark&margin-w=15" />
-</p>
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CipherCraftXIshant/CipherCraftXIshant/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
 <p align="center"><i>Always learning, always shipping.</i></p>

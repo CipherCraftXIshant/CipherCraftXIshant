@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ishant Sharma 👋</h1>
-<h3 align="center">Full-Stack Developer (MERN) · DSA Enthusiast · Building AI-powered web apps</h3>
+<h3 align="center">Full-Stack Developer · DSA Enthusiast · Building AI-powered web apps</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ishant-sharma-b66725309/">
